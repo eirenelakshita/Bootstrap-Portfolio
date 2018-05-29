@@ -1,0 +1,20 @@
+.page-header {
+            float: left;
+            background:lightseagreen;
+            color: #ffff;
+            padding: 10px 15px;}
+
+.nav.justify-content-end {
+    height: 67px;
+}
+
+.mt-0 {
+    color: lightseagreen;
+    padding: 10px;
+}
+
+.img-thumbnail {
+    float: left;
+    margin-right: 15px;
+}
+
